@@ -1,6 +1,8 @@
 
 # **Goodcabs Performance Analysis 🚖**
 Project on Transportation and Mobility Industry
+🔗 **Project:** [Good Cabs](https://shorturl.at/HDabV)
+
 ## **Project Overview**
 This project focuses on analyzing key metrics for Goodcabs, a cab service company, to evaluate performance and achieve business targets for 2024. The analysis uncovers insights into trip volume, passenger satisfaction, repeat passenger rates, and revenue distribution to aid strategic decision-making.
 

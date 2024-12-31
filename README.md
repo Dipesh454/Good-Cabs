@@ -37,15 +37,6 @@ This project focuses on analyzing key metrics for Goodcabs, a cab service compan
 
 ## **Impact**
 This project provided Goodcabs with a clear understanding of performance trends and actionable insights, paving the way for targeted strategies to achieve business goals.
-
----
-
-## **How to Access**
-1. Download the repository files.  
-2. Open the SQL scripts and execute them on your database.  
-3. View the Power BI dashboard file (.pbix) and Excel analysis.  
-4. Review the PowerPoint presentation for a summary of insights.
-
 ---
 
 Feel free to connect with me for collaboration or discussions!  
